@@ -134,7 +134,7 @@ p {
     max-width: 150px;
 }
 
-.middlesection {
+section {
     margin-bottom: 20px;
     padding: 50px;
     height: 300px;
@@ -143,10 +143,10 @@ p {
     color: #ffffff;
 }
 
-.middlesection img {
+section img {
     max-height: 200px;
 }
-.middlesection h2 {
+section h2 {
     margin-bottom: 20px;
     font-size: 36px;
 }
